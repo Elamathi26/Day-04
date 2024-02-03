@@ -42,7 +42,7 @@ var str = function () {
     return str.join(' ');
     })("have a nice dat");
     
-    //OUTOUT: Have A Nice Day
+    //OUTPUT: Have A Nice Day
 
  //c)
 // Anonymous Function
